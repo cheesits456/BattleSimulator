@@ -1,2 +1,4 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+script.js linguist-generated
+style.css linguist-generated
