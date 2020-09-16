@@ -6,3 +6,4 @@ scripts/forkphorus-generated.js linguist-generated
 scripts/forkphorus.js linguist-vendored
 scripts/JSZip.js linguist-vendored
 scripts/NW.js linguist-vendored
+scripts/script.js linguist-language=JavaScript
