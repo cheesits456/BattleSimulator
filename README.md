@@ -1,5 +1,5 @@
 # BattleSimulator
-A dumb game I made in Scratch a long time ago ported to HTML/CSS/JavaScript
+A dumb game I made in Scratch a long time ago that I later ported to HTML/CSS/JavaScript
 
 I also made a really dumb joke "programming tutorial" with it just for the memes
 

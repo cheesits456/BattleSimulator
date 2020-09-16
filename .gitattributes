@@ -1,2 +1,8 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+scripts/colorParser.js linguist-vendored
+scripts/fontFaceObserver.js linguist-vendored
+scripts/forkphorus-generated.js linguist-generated
+scripts/forkphorus.js linguist-vendored
+scripts/JSZip.js linguist-vendored
+scripts/NW.js linguist-vendored
