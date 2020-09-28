@@ -1,11 +1,9 @@
-// Player scripts...
-(function () {
-	"use strict";
+"use strict";
 
-	var splash = document.querySelector(".splash");
-	var error = document.querySelector(".error");
-	var progressBar = document.querySelector(".progress");
-	var progressBarFill = document.querySelector(".progress-bar");
+var splash = document.querySelector(".splash");
+var error = document.querySelector(".error");
+var progressBar = document.querySelector(".progress");
+var progressBarFill = document.querySelector(".progress-bar");
 
 	var splash = document.querySelector(".splash");
 	var error = document.querySelector(".error");
@@ -92,4 +90,3 @@
 		.catch(function (e) {
 			player.handleError(e);
 		});
-})();
